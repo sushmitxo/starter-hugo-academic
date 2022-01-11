@@ -34,27 +34,12 @@ coordinates:
   longitude:
 directions: 
 office_hours:
-  - 
-  - 
 appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter:@sushmitxo
     link: 'https://twitter.com/sushmitxo'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-
 # Site header
 
 main_menu:
@@ -62,7 +47,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: true
   show_search: true
   highlight_active_link: true
 
@@ -77,8 +62,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
 math: false
-diagram: false
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
