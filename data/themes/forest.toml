@@ -1,6 +1,9 @@
 # Theme metadata
 name = "Forest"
 
+# Is theme light or dark?
+light = true
+
 [light]
   # Primary
   primary = "#4caf50"
