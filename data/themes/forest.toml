@@ -5,7 +5,7 @@ name = "Forest"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "#daede5"
 primary_light = "#80e27e"
 primary_dark = "#087f23"
 
