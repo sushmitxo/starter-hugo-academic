@@ -21,5 +21,5 @@ name = "Forest"
   # Primary
   primary = "#4caf50"
 
-  link = "#4caf50"
-  link_hover = "#4caf50"
+  link = "#c1fbbb"
+  link_hover = "#c1fbbb"
